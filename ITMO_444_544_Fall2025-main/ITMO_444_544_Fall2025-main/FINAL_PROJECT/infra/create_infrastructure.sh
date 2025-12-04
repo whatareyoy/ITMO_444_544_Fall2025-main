@@ -107,8 +107,8 @@ sudo apt install -y python3-pip git
 export RESUME_BUCKET_NAME=$RESUME_BUCKET_NAME
 
 # Clone API and frontend
-git clone https://github.com/your-username/resume-flask-api.git>
-git clone https://github.com/your-username/resume-flask-fronten>
+https://github.com/whatareyoy/ITMO_444_544_Fall2025-main/tree/main/ITMO_444_544_Fall2025-main/ITMO_444_544_Fall2025-main/FINAL_PROJECT/api
+https://github.com/whatareyoy/ITMO_444_544_Fall2025-main/tree/main/ITMO_444_544_Fall2025-main/ITMO_444_544_Fall2025-main/FINAL_PROJECT/frontend
 
 # Install dependencies
 cd /home/ubuntu/resume-flask-api
